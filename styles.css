@@ -1,0 +1,70 @@
+ /* . class
+ # id */
+
+header { 
+text-align: center;
+}
+
+body {
+  font-family: Arial; sans-serif;
+}
+
+.flowers {
+  border: 1px solid lightblue;
+  display: inline-block;
+  width: 30%;
+  margin: 1%;
+}
+
+.title {
+  border: 1px dotted lightgray;
+  text-align: center;
+}
+
+h3  {
+  text-align: center;
+  padding: 0;
+}
+
+h4  {
+  text-align: center;
+  padding: 0;
+}
+
+p { 
+  font-size: 11px;
+  padding: 0;
+  text-align: center;
+ }
+
+ .availability {
+    background-color: darkgrey;
+    color: yellow;
+    text-align: center;
+    height: 30px;
+    padding-top: 20px;
+ }
+
+img {
+    display: block;
+    width: 100%;
+    padding: 0;
+ }
+
+
+.cardHeader { 
+  padding: 0 0;
+ }
+
+.specifications {
+  padding: 0;
+}
+
+.description { 
+  padding: 20px;
+  text-align: justify;
+}
+
+
+
+
